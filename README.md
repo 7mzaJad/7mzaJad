@@ -2,9 +2,6 @@
 
 My name is Hamza and I'm A Data Science & Artificail Intelligence Current Student in Pearson BTEC Level 5 Program at Al-Hussein Technical Universitiy
 
-- 🌱 I’m aiming To Achiev Full Career Path Certificate In AI Engineering, Data Science and Data Analysis on DataCamp
-- 🔭 I’m currently working on My First Research Paper Regarding Object Detection Using Deep Learnign-Based Neural Networks
-- - 👯 I’m looking forward internship in Data Science and AI in Business automation and finance
 
 
 <!--
